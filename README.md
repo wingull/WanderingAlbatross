@@ -1,2 +1,2 @@
-# WonderingAlbatross
+# WanderingAlbatross
 Some little programs
