@@ -60,9 +60,9 @@ int main() {
 					soc[c] += 1;
 				}
 			}
-			location[3 * (doclist[i].loc[0]*100+ doclist[i].loc[1])] = doclist[i].R();
-			location[3 * (doclist[i].loc[0] * 100 + doclist[i].loc[1]) + 1] = doclist[i].G();
-			location[3 * (doclist[i].loc[0] * 100 + doclist[i].loc[1]) + 2] = doclist[i].B();
+//			location[3 * (doclist[i].loc[0]*100+ doclist[i].loc[1])] = doclist[i].R();
+//			location[3 * (doclist[i].loc[0] * 100 + doclist[i].loc[1]) + 1] = doclist[i].G();
+//			location[3 * (doclist[i].loc[0] * 100 + doclist[i].loc[1]) + 2] = doclist[i].B();
 
 		}
 		if (t % 10 == 0) {
